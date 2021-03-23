@@ -1,2 +1,2 @@
 # autocategorization-tfidf
-Auto-categorization for primary category of main page Facebook
+Basic auto-categorization model for primary category of main page Facebook using video description
